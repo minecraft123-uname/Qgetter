@@ -7,7 +7,7 @@ Note: If U did not get a satisfactory result, please check does your QQ ID or GR
 ## Example 1(the examples are made up):  
 	Command: 
 		Qgetter -m hi -i 123456789 -s image.jpg
-	*Output*:
+	Output:
 		Already saved the head image of 123456789 to image.jpg.
 	// Save the headimage of the QQ user with QQ ID 123456789 to image.jpg.
 
