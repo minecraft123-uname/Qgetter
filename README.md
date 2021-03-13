@@ -1,11 +1,8 @@
 # Qgetter
 Qgetter can get the headimage and nickname of a QQ user, or the head image of a QQ group by a known QQ ID or QQ group ID.  
-
 Qgetter is based on the open Tencent™ QQ headimage and nickname API interface.  
-
 Note: If U did not get a satisfactory result, please check does your QQ ID or GROUP ID exists.  
-
---Written by Sun Xiao
+--Written by Sun Xiao  
 
 Example 1(the examples are made up):
 	Command: 
