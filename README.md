@@ -5,7 +5,7 @@ Note: If U did not get a satisfactory result, please check does your QQ ID or GR
 --Written by Sun Xiao  
 
 ## Example 1(the examples are made up):  
-	*Command*: 
+	Command: 
 		Qgetter -m hi -i 123456789 -s image.jpg
 	*Output*:
 		Already saved the head image of 123456789 to image.jpg.
